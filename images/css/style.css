@@ -1,0 +1,510 @@
+
+body{
+    background-color: rgb(248, 228, 228);
+    height: 900px
+    }
+.header{
+    width: 100%;
+    height: 55px;
+    background-color: rgb(255, 255, 255);
+    position: fixed; 
+    top: 0;
+    left: 0;
+}
+.img1{
+    width: 150px;
+    height: 55px;
+    margin-left: 80px;
+    float: left;
+}
+ .list1{
+    float: right;
+    margin-right: 350px;
+}
+ .list1 li{
+    list-style:none;
+    color: rgb(252, 252, 252);
+    display: inline-block;
+    margin-left: 40px;
+    font-size: 25px;
+    text-transform: capitalize; 
+ }  
+ .list1 li:hover{
+    background-color: rgb(243, 174, 174);
+ }
+ .list1 li a{
+color:rgb(221, 162, 162);
+text-decoration: none ;
+} 
+.list1 li i{
+    margin-right: 450px;
+    color: rgb(209, 152, 152);
+} 
+.icons{
+    float: right;
+    font-size: 20;
+    margin-right:60 ;
+    margin-top: -3%;
+    color:rgb(221, 162, 162);
+} 
+.chair{
+    margin-top: 5%;
+    width: 95%;
+    height: 80%;
+    margin-left: 5%;
+    background-size: cover  ;
+}
+.img2{
+     margin-top: 5%; 
+    width: 95%;
+    height: 80%;
+}
+.p{
+    margin-top:-20% ;
+    margin-left: 10%;
+    text-align: left;
+      font-size: 50;
+    text-transform: capitalize ;
+    color: rgb(155, 114, 114);
+}
+.but{
+    margin-top: -10%;
+    margin-left: 10%;
+    color:rgb(255, 255, 255) ;
+    background-color: rgb(155, 114, 114);
+    border: 0;
+}
+.cat{
+    width: 40%;
+    height: 60%;
+   float: left;
+   margin-left:6%;
+   margin-top: 1%;
+}
+.img3{
+    width: 40%;
+    height: 60%;
+   float: left;
+   margin-left:6%;
+   margin-top: 1%;
+}
+.p2{
+    width:20%;
+    height: 5%;
+    font-size: 20;
+    text-transform: capitalize ;
+    color: rgb(221, 162, 162);
+    margin-left: 8%;
+    margin-bottom: 5%;    
+}
+.cating{
+    width: 40%;
+    height: 60%;
+   float: left;
+   margin-left:14%;
+   margin-top: 1%;
+}
+.img4{
+    width: 40%;
+    height: 60%;
+   float: left;
+   margin-left:14%;
+   margin-top:1%;
+}
+.p3{
+    width:20%;
+    height: 5%;
+    font-size: 20;
+    text-transform: capitalize ;
+    color:rgb(221, 162, 162);
+    margin-left: 20%;
+    margin-bottom: 5%;  
+     
+}
+.cated{
+    width: 40%;
+    height: 60%;
+ float: left;
+  margin-top:-29%;  
+ margin-left: 20%;
+ margin-right: 3%;
+
+}
+.img5{
+    width: 40%;
+    height: 60%;
+  float: left;
+  margin-top:-29%; 
+  margin-left: 20%;
+  margin-right: 3%;
+}
+.p4{
+    width:20%;
+    height: 5%;
+    font-size: 20;
+    text-transform: capitalize ;
+    color: rgb(221, 162, 162);
+    margin-left: 20%;
+    margin-bottom: 5%;  
+}
+.catd{
+    width: 40%;
+    height: 60%;
+   float: left;
+   margin-top:-37%; 
+   margin-left: 33%;
+}   
+.img6{
+    width: 40%;
+    height: 60%;
+    float:left;
+     margin-top:-37%; 
+    margin-left: 33%;
+}
+.p5{
+    width:20%;
+    height: 5%;
+    font-size: 20;
+    text-transform: capitalize ;
+    color:  rgb(221, 162, 162);
+    margin-left: 35%;
+    margin-bottom: 5%;  
+}
+ .marke{
+    width: 60%;
+    height: 40%;
+    margin-top:40%;
+    background-color: rgb(247, 217, 217);
+} 
+.icon{
+    float: left;
+    margin-top: -80%;
+    font-size: 25;
+    margin-left: 8%;
+}
+.p6{
+    width: 30%;
+    height: 20%;
+    text-transform: capitalize;
+    margin-top:-25%;
+    margin-left: 5%;
+   font-size: 22;
+   float: left;
+}    
+.p7{
+    width: 50%;
+    height: 30%;
+ text-transform: capitalize;
+ margin-top:-20%;
+font-size: 25;
+float: left;
+
+}
+
+.discount1{
+    width: 40%;
+    height: 63%;
+    float: left;
+    margin-left: 44%;
+    margin-top: -19%;
+}
+.discount1:hover{
+    opacity: 0.5;
+}
+.img7{
+    width: 40%;
+    height: 63%;  
+    float: left;
+    margin-left: 40%;
+    margin-top: -19%;
+}
+.img7:hover{
+    opacity: 0.7;
+}
+.interior{
+    width: 30%;
+    height: 20%;
+    margin-left: 40%;
+    margin-top: -16%;
+    color: rgb(158, 88, 88);
+}
+.discount2{
+    width: 40%;
+    height: 63%;
+    float: left;
+    margin-left: 55%;
+    margin-top: -36%;
+}
+.discount2:hover{
+    opacity: 0.5;
+}
+.img8{
+    width: 40%;
+    height: 63%;  
+    float: left;
+    margin-left: 55%;
+    margin-top: -35%;
+}
+.img8:hover{
+    opacity: 0.7;
+}
+.interior2{
+    width: 30%;
+    height: 20%;
+    margin-left: 55%;
+    margin-top: -32%;
+    color: rgb(158, 88, 88);
+}
+.icon-box1{
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 10%;
+    margin-top: -25%;
+    color:  rgb(158, 88, 88);
+}
+.icon1{
+    width: 5%;
+    height: 5%;
+    float: left;
+    margin-left: 15%;
+}
+.p8{
+font-size: 20;
+}
+.span{
+    font-size: 15;
+}
+.line1{
+    width: .2%;
+    height: 10%;
+   background-color: rgb(158, 88, 88); 
+    float: left;
+    margin-left: 8%;
+    margin-top: -25%;
+}
+.icon-box2{
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 25%;
+    margin-top: -25%;
+    color:  rgb(158, 88, 88);
+}
+.icon2{
+    width: 5%;
+    height: 5%;
+    float: left;
+    margin-left: 15%;
+}
+.line2{
+    width: .2%;
+    height: 10%;
+   background-color: rgb(158, 88, 88); 
+    float: left;
+    margin-left: 23%;
+    margin-top: -25%;
+}
+.icon-box3{
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 40%;
+    margin-top: -25%;
+    color:  rgb(158, 88, 88);
+}
+.icon3{
+    width: 5%;
+    height: 5%;
+    float: left;
+    margin-left: 15%;
+}
+.line3{
+    width: .2%;
+    height: 10%;
+   background-color: rgb(158, 88, 88); 
+    float: left;
+    margin-left: 38%;
+    margin-top: -25%;
+}
+.icon-box4{
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 55%;
+    margin-top: -25%;
+    color:  rgb(158, 88, 88);
+}
+.icon4{
+    width: 5%;
+    height: 5%;
+    float: left;
+    margin-left: 15%;
+}
+.line4{
+    width: .1%;
+    height: 10%;
+   background-color: rgb(158, 88, 88); 
+    float: left;
+    margin-left: 53%;
+    margin-top: -25%;
+}
+.icon-box5{
+    width: 20%;
+    height: 10%;
+    float: left;
+    margin-left: 70%;
+    margin-top: -25%;
+    color:  rgb(158, 88, 88); 
+ } 
+ .icon5{
+    width: 5%;
+    height: 5%;
+    float: left;
+    margin-left: 15%;
+}
+ .line5{
+    width: .1%;
+    height: 10%;
+   background-color: rgb(158, 88, 88); 
+    float: left;
+    margin-left: 68%;
+    margin-top: -25%;
+}
+.line6{
+    width: .1%;
+    height: 10%;
+   background-color: rgb(158, 88, 88); 
+    float: left;
+    margin-left: 83%;
+    margin-top: -25%;
+}
+  .perf {
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: -15%;
+    float: left;
+    margin-left: 40%;
+     padding-bottom: 10px;  
+     color: rgb(158, 88, 88); 
+   }  
+  
+  .roose1{
+    width: 60px;
+    height: 4px;
+    background-color: rgb(158, 88, 88); 
+    margin: 0 auto;
+    margin-top: 30%;
+    margin-left: 45%;
+    transition: width 0.3s ease; 
+  }
+  
+.roose1:hover {
+    width: 200px; 
+    opacity: 0.7;
+  }
+  
+  .study1 {
+    text-align: center;
+    margin-top: 10%;
+    float: left;
+    margin-left: 10%;
+  } 
+  
+   .study1  span {
+    display: inline-block;
+    margin: 0 10%; 
+    margin-left: 10%;
+    font-size: 16px;
+    color: rgb(158, 88, 88);
+  } 
+   .product-card {
+     
+    width: 25%;
+    float: left;
+    margin-top: 10%;
+    margin-left: 6%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgb(158, 88, 88);
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+  } 
+  
+  .image-container {
+    
+    justify-content: center;
+    align-items: center;
+     position: relative; 
+    width: 100%;
+    height: 200px;
+    overflow: hidden;
+  }
+  
+  .image-container img {
+    
+    width: 100%;
+    height: 100%;
+    transition: transform 0.5s;
+  }
+  
+  .main-image {
+    
+     display: block;
+  }
+  
+  .alternate-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+  }
+  
+  
+  .social-icons {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    gap: 10px;
+  }
+  
+  .social-icons i {
+    font-size: 20px;
+    color: palevioletred;
+    background-color: rgb(158, 88, 88);
+    padding: 10px;
+    border-radius: 50%;
+    transition: transform 0.5s;
+    display: inline-block;
+  }
+  
+  .social-icons i:hover {
+    transform: rotate(360deg);
+  }
+  
+  
+  .rating {
+    margin-top: 10px;
+  }
+  
+  .star {
+    font-size: 20px;
+  }
+  
+  .black {
+    color: rgb(54, 50, 50);
+  }
+  .yellow {
+    color: yellow;
+  }
+  
+  
+  .image-container:active .main-image {
+    display: none;
+  }
+  
+  .image-container:active .alternate-image {
+    display: block;
+  }
